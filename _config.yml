@@ -17,14 +17,14 @@ disqus_short_name: hahaya
 disqus_show_comment_count: true
 
 # site
-title: hahaya's blog
-url: http://hahaya.github.com
+title: 赛特's blog
+url: http://seagullyoyo.github.com
 feed: /atom.xml
 
 # color scheme
 highlight: light
 
 # author
-author_name: hahaya
-author_email: hahayacoder@gmail.com
-author_info: <a href="http://hahaya.github.com">hahaya</a>
+author_name: 赛特
+author_email: 350021536@qq.com
+author_info: <a href="http://seagullyoyo.github.com">seagullyoyo</a>
